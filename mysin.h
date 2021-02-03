@@ -16,7 +16,7 @@ class MySin
 	 ~MySin();
 	 /**publiczna metoda double value()*/
 	  /** Funkcja \b value ma zwracać wartość \b sin(x) która jest wyliczona na podstawie pierwszych 10 wyrazów szeregu
-		\f$sin(x)=\sum_{k=0}^\infty (-1)^k\frac{x^{2k+1}}{(2k+1)!}.\f$ \zdjecia html sinusx.jpg
+		\f$sin(x)=\sum_{k=0}^\infty (-1)^k\frac{x^{2k+1}}{(2k+1)!}.\f$ \image html sinusx.png
 		*/
 	 double value();
 	  /**publiczna metoda void setX(double)*/
